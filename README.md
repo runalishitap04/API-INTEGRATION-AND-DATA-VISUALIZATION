@@ -42,3 +42,5 @@ Conclusion:
 
 In summary, API integration and data visualization are complementary technologies that enable seamless data flow and effective data presentation. API integration connects disparate systems to provide comprehensive and timely data access, while data visualization turns that data into insightful and actionable visuals. Together, they empower organizations to leverage data-driven insights, streamline operations, and enhance decision-making in an increasingly complex digital world.
 
+## OUTPUT:
+![Image](https://github.com/user-attachments/assets/4d60e6bd-ed2e-4042-962c-cf059a885316)
